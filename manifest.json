@@ -1,0 +1,21 @@
+{
+    "name": "Seal Online Pedia",
+    "short_name": "SealPedia",
+    "theme_color": "#f57c00",
+    "background_color": "#f57c00",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "seal_icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "seal_icon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

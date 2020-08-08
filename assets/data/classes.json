@@ -1,0 +1,107 @@
+[
+    {
+        "nama_class": "Warrior",
+        "deskripsi": "Warrior adalah job terkuat di seluruh Dunia Shiltz. Job ini memiliki status serangan physical tertinggi dari semua job yang ada. Membawa Greatsword sebagai senjata utama dan memiliki skill yang benar-benar mematikan pada jarak serangan dekat.",
+        "second_class": [
+            {
+                "nama_class": "Blademaster",
+                "deskripsi": "Blademaster merupakan job lanjutan dari Warrior. Job ini lebih memfokuskan pada skill kombo tingkat lanjut yang akan menguntungkan job ini saat melakukan kombo dimana dapat memberikan efek penurunan defense lawan, shield pada diri sendiri serta mampu membalikkan serangan lawan, dan juga mampu menambah darah sendiri saat kombo tidak terhentikan."
+            },
+            {
+                "nama_class": "Barbarian",
+                "deskripsi": "Barbarian merupakan job lanjutan dari Warrior. Job ini lebih menekankan pada mobilitas character yang bertujuan untuk finishing battle dengan cepat. Semua skil pada job ini memiliki tempo serangan yang sangat cepat dan mampu mengenai musuh-musuh disekelilingnya."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_warrior.jpg"
+    },
+    {
+        "nama_class": "Knight",
+        "deskripsi": "Knight adalah job dengan defense dan HP (Health Point) tertinggi dari semua job yang ada di Dunia Shiltz. Job ini menggunakan set equipment berat seperti armor yang keras dan kombinasi pedang serta perisai. Job ini disebut Tank karena memiliki skill set yang mampu meningkatkan defense diri sendiri dan skill provoke sehingga mampu mengalihkan perhatian banyak monster hanya ke dirinya sendiri.",
+        "second_class": [
+            {
+                "nama_class": "Destroyer",
+                "deskripsi": "Destroyer merupakan job lanjutan dari Knight. Job ini lebih fokus pada peningkatan defense diri sendiri hingga mampu meningkatkan value nya sebagai Tank."
+            },
+            {
+                "nama_class": "Paladin",
+                "deskripsi": "Paladin merupakan job lanjutan dari Knight. Job ini lebih menekankan pada Semi-Tank dimana selain defense yang tinggi, juga memiliki skill set serangan yang lebih sakit dan mampu memberikan debuff pada musuh seperti mengurangi defense musuh dan memberikan buff ke team sendiri seperti peningkatan defense dan heal untuk satu team."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_knight.jpg"
+    },
+    {
+        "nama_class": "Magician",
+        "deskripsi": "Magician merupakan satu-satunya job yang dapat menggunakan sihir di Dunia Shiltz. Job ini bersenjatakan staff/tongkat untuk menembakkan sihirnya ke musuh. Serangan magical untuk job ini terbilang paling sakit dan paling variatif. Job ini memiliki 2 tipe sihir yaitu Api dan Ice dimana masing-masing memiliki sihir ultimate nya sendiri.",
+        "second_class": [
+            {
+                "nama_class": "Freezer",
+                "deskripsi": "Freezer merupakan job lanjutan dari Magician. Job ini mengkhususkan dirinya untuk mendalami Ice Magic, dimana skill set yang dimilikinya mampu memberikan debuff yang sangat fatal ke musuh seperti menghentikan gerakan musuh, melambatkan pergerakan musuh."
+            },
+            {
+                "nama_class": "Burner",
+                "deskripsi": "Burner merupakan job lanjutan dari Magician. Job ini mengkhususkan dirinya untuk mendalami Fire Magic, dimana skill set yang dimilikinya mampu memberikan damage yang sangat besar ke musuh lengkap dengan efek samping yaitu Burn dan ada skill yang fokus ke 1 musuh dan yang fokus ke banyak musuh sekaligus."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_magician.jpg"
+    },
+    {
+        "nama_class": "Cleric",
+        "deskripsi": "Cleric merupakan satu-satunya job yang memiliki skill set support yaitu buff sekaligus heal team. Job ini menggunakan senjata Mace/Gada. Selain sebagai Support, job ini juga memiliki skill set khusus sebagai Attacker jarak dekat.",
+        "second_class": [
+            {
+                "nama_class": "Prophet",
+                "deskripsi": "Prophet merupakan job lanjutan dari Cleric. Job ini lebih memfokuskan dirinya sebagai Attacker, dimana memiliki skill set yang mampu memberikan damage lumayan besar lengkap dengan efek buff ke diri sendiri dan juga debuff ke musuh."
+            },
+            {
+                "nama_class": "Priest",
+                "deskripsi": "Priest merupakan job lanjutan dari Cleric. Job ini lebih fokus untuk meningkatkan dirinya pada sisi Support. Job ini memiliki skill set yang lebih supportif seperti dapat meningkatkan status attack, attack speed dan lainnya pada character-character di team sendiri. Sekaligus memiliki dua ultimate skill yang dapat memberikan buff OP ke team sendiri dalam waktu yang singkat."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_cleric.jpg"
+    },
+    {
+        "nama_class": "Clown",
+        "deskripsi": "Clown merupakan job yang mengandalkan attack speed. Job ini menggunakan Dagger/Pisau sebagai senjatanya. Pada job pertama, job ini lebih mengandalkan skill lemparan daggernya yang dikombinasikan dengan status attack speed sehingga serangannya bertubi-tubi ke musuh.",
+        "second_class": [
+            {
+                "nama_class": "Assassin",
+                "deskripsi": "Assassin merupakan job lanjutan dari Clown. Job ini memfokuskan dirinya ke tipe job yang serangannya menyergap, cepat dan dapat membunuh musuhnya seketika itu juga. Job ini menggunakan dua buah senjata."
+            },
+            {
+                "nama_class": "Trickster",
+                "deskripsi": "Trickster merupakan lanjutan dari job Clown. Job ini lebih meningkatkan skill melempar daggernya, dengan tambahan memiliki beberapa skill aktif yang mampu memberikan damage yang sangat besar lengkap dengan debuff yang diberikan ke musuh."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_clown.jpg"
+    },
+    {
+        "nama_class": "Craftsman",
+        "deskripsi": "Craftsman merupakan satu-satunya job di Dunia Shiltz yang mampu membuat maupun menempa equipment untuk semua job yang ada. Selain itu, job ini juga mampu berperan sebagai Attacker karena bersenjatakan Hammer yang mampu memberikan damage yang lumayan sakit dan ada kesempatan memberikan efek stun setiap serangan yang dilakukan.",
+        "second_class": [
+            {
+                "nama_class": "Bomber",
+                "deskripsi": "Bomber merupakan job lanjutan dari Craftsman. Job ini lebih memfokuskan dirinya sebagai Attacker dimana memiliki skill set yang dapat memberikan damage yang sangat besar baik ke satu musuh maupun banyak musuh sekaligus."
+            },
+            {
+                "nama_class": "Smith",
+                "deskripsi": "Smith merupakan lanjutan dari job Craftsman. Job ini lebih fokus meningkatkan kemampuan craft dan enchance equipmentnya sehingga memiliki kesempatan lebih besar untuk berhasil saat membuat maupun menempa senjata ke tingkat yang lebih tinggi."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_craftsman.jpg"
+    },
+    {
+        "nama_class": "Hunter",
+        "deskripsi": "Hunter merupakan job yang benar-benar mengandalkan serangan jarak jauh. Bersenjatakan Ketapel, skill set yang dimiliki job ini sangat bervariatif. Dari skill support yang dapat memancing musuh, menghindar dengan cepat, cloning diri sendiri hingga memasang perangkap untuk musuh. Selain itu, ada 2 tipe skill yaitu skill set untuk serangan yang fokus ke satu musuh dan serangan yang fokus ke banyak musuh.",
+        "second_class": [
+            {
+                "nama_class": "Archer",
+                "deskripsi": "Archer merupakan job lanjutan dari Hunter. Job ini lebih memfokuskan dirinya pada serangan ke banyak musuh sekaligus atau sebutannya AOE. Skill set yang dimiliki job ini memiliki efek debuff seperti melambatkan pergerakan musuh dan menghentikan serangan musuh. Job ini bersenjatakan Panah."
+            },
+            {
+                "nama_class": "Gunner",
+                "deskripsi": "Gunner merupakan job lanjutan dari Hunter. Job ini lebih memfokuskan dirinya ke serangan yang fokus pada satu musuh. Skill set yang dimiliki job ini mampu memberikan damage yang sangat besar dan juga terdapat skill supportive seperti stealth movement. Job ini bersenjatakan Pistol."
+            }
+        ],
+        "ilustrasi": "/assets/img/seal_hunter.jpg"
+    }
+]

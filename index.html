@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="My first PWA" />
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SealPedia - Seal Online Pedia</title>
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+    <!-- ios icon touch -->
+    <link rel="apple-touch-icon" href="/seal_icon_192.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#f57c00" />
+    <style>
+        .img-container {
+            display: flex;
+            position: relative;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+        }
+
+        img {
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="nav-wrapper orange darken-2">
+            <img src="/assets/img/seal_logo.png" alt="Logo Seal Online" class="brand-logo" width="80px"
+                style="margin-left: 20px;">
+            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">☰</i></a>
+            <ul class="topnav right hide-on-med-and-down"></ul>
+        </div>
+    </nav>
+
+    <ul class="sidenav" id="mobile-demo"></ul>
+
+    <div class="container" id="body-content"></div>
+
+    <!--JavaScript at end of body for optimized loading-->
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script src="js/nav.js"></script>
+    <script src="js/register_sw.js"></script>
+</body>
+
+</html>
